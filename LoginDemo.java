@@ -1,20 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
- 
-class NextPage extends JFrame
-{
-  NextPage()
- {
- setDefaultCloseOperation(javax.swing.
-  WindowConstants.DISPOSE_ON_CLOSE);
- setTitle("Welcome");
- setSize(400, 200);
-  }
- }
-Here is the code of LoginDemo.java
-
-import javax.swing.*;
-import java.awt.*;
 import java.awt.event.*;
  
 class Login extends JFrame implements ActionListener
